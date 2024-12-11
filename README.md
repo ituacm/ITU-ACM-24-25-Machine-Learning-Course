@@ -1,6 +1,6 @@
 # ITU-ACM-24-25-Machine-Learning-Course
 
-??.11.2024 ??day 18.00 @ ??
+11.12.2024 Wednesday 18.00 @ BBF Z-18
 
 **The course will be in Turkish.**
 
@@ -28,10 +28,10 @@ The students will:
 
 |     #           | Topic                          | Instructor(s)                        | Time - Place
 | :----------------: | :-------------------------------: | :-----------------------------: | :-----------------------------: |
-| Lecuture 1 | Introduction and Basic Concepts | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)| ??.11.2024 18:00|
-| Lecuture 2 | Deep Learning & Optimization | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)| ??.11.2024 18:00|
-| Lecuture 3 | Regression | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)|  ??.11.2024 18:00|
-| Lecuture 4 | Classification | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)|  ??.11.2024 18:00|
+| Lecuture 1 | Introduction and Basic Concepts | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)| 11.12.2024 18:00|
+| Lecuture 2 | Deep Learning & Optimization | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)| 16.12.2024 18:00|
+| Lecuture 3 | Regression | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)|  18.12.2024 18:00|
+| Lecuture 4 | Classification | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)|  25.12.2024 18:00|
 
 <p align="center"><b>Lectures will be around 1.5 hours. This course is 99% about Supervised Learning.</b></p>
 
